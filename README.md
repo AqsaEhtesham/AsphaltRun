@@ -83,12 +83,7 @@ Alternatively, you can automate this using a batch file (`Run_Game.bat`):
 "path\to\DOSBox.exe" -c "mount c C:\asm-run" -c "c:" -c "p.com"
 ```
 
----
 
-## 📸 Screenshots
-*(Insert gameplay, main menu, and game over screenshots here)*
-
----
 
 ## 🔮 Future Improvements
 - **Obstacle Speed Scaling**: Increase the speed of oncoming cars as the score goes up.
@@ -96,13 +91,6 @@ Alternatively, you can automate this using a batch file (`Run_Game.bat`):
 - **Enhanced Soundtracks**: Support multiple retro melodies using polyphonic channel emulation or AdLib/SoundBlaster synthesis.
 - **High Scores Persistence**: Save and load the highest scores to/from a DOS file.
 
----
-
-## 👥 Authors
-- **Aqsa Ehtesham** (Roll No: 24L-3017)
-- **Shehryar Waheed** (Roll No: 24L-3023)
-
----
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
