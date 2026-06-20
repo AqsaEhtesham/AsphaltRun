@@ -1,0 +1,9 @@
+# Executables and object files
+*.com
+*.obj
+*.lst
+*.bin
+*.exe
+.idea/
+.vscode/
+.gemini/
